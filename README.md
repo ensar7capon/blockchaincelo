@@ -1,4 +1,5 @@
-<img width="1409" height="664" alt="image" src="https://github.com/user-attachments/assets/6fc85eaa-7e00-4624-8a95-b35f8bf110fc" />
+<img width="1497" height="704" alt="image" src="https://github.com/user-attachments/assets/8d98f4ee-66a8-4f9d-9903-8f52f3bf3ba3" />
+
 
 # 🏦 SaveCelo
 
