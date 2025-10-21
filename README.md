@@ -31,3 +31,4 @@
 - MetaMask or Celo Wallet (for interaction)
 - Celo Testnet funds (Alfajores)
 
+<img width="243" height="120" alt="image" src="https://github.com/user-attachments/assets/c4cfb085-d7c6-4692-9d38-a4d80111b915" />
