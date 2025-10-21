@@ -1,59 +1,32 @@
-# celoappensr
+<img width="1409" height="664" alt="image" src="https://github.com/user-attachments/assets/6fc85eaa-7e00-4624-8a95-b35f8bf110fc" />
 
-A new Celo blockchain project
+# 🏦 SaveCelo
 
-A modern Celo blockchain application built with Next.js, TypeScript, and Turborepo.
+**SaveCelo** is a decentralized micro-savings platform built on the **Celo blockchain** to promote **financial inclusion**. It allows users to create savings goals and track their progress in a transparent and trustless environment using smart contracts.
 
-## Getting Started
+---
 
-1. Install dependencies:
-   ```bash
-   pnpm install
-   ```
+## 🌐 Live Demo
 
-2. Start the development server:
-   ```bash
-   pnpm dev
-   ```
+🧪 This is a demo project running on the Celo testnet (Alfajores).
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+---
 
-## Project Structure
+## ✨ Features
 
-This is a monorepo managed by Turborepo with the following structure:
+- Create personalized savings accounts with specific goals
+- Track number of active goals and total saved amount
+- Fully decentralized — all data stored on-chain
+- Designed with financial inclusion and ease of use in mind
 
-- `apps/web` - Next.js application with embedded UI components and utilities
-- `apps/hardhat` - Smart contract development environment
+---
 
-## Available Scripts
+## 🚀 Getting Started
 
-- `pnpm dev` - Start development servers
-- `pnpm build` - Build all packages and apps
-- `pnpm lint` - Lint all packages and apps
-- `pnpm type-check` - Run TypeScript type checking
+### Prerequisites
 
-### Smart Contract Scripts
+- Node.js & npm
+- Hardhat (for smart contract development)
+- MetaMask or Celo Wallet (for interaction)
+- Celo Testnet funds (Alfajores)
 
-- `pnpm contracts:compile` - Compile smart contracts
-- `pnpm contracts:test` - Run smart contract tests
-- `pnpm contracts:deploy` - Deploy contracts to local network
-- `pnpm contracts:deploy:alfajores` - Deploy to Celo Alfajores testnet
-- `pnpm contracts:deploy:sepolia` - Deploy to Celo Sepolia testnet
-- `pnpm contracts:deploy:celo` - Deploy to Celo mainnet
-
-## Tech Stack
-
-- **Framework**: Next.js 14 with App Router
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **UI Components**: shadcn/ui
-- **Smart Contracts**: Hardhat with Viem
-- **Monorepo**: Turborepo
-- **Package Manager**: PNPM
-
-## Learn More
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Celo Documentation](https://docs.celo.org/)
-- [Turborepo Documentation](https://turbo.build/repo/docs)
-- [shadcn/ui Documentation](https://ui.shadcn.com/)
